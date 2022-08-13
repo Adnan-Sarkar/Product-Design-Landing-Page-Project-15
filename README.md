@@ -2,7 +2,7 @@
 
 Hello There,
 
-I'm `Adnan Sarkar`. This is the 14th assignment in my [Full Stack Javascript](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) course. Where I designed this page using raw HTML & CSS. This design is fully responsive, without using any CSS framework.
+I'm `Adnan Sarkar`. This is the 15th assignment in my [Full Stack Javascript](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) course. Where I designed this page using raw HTML & CSS. This design is fully responsive, without using any CSS framework.
 
 ## 🛠 Technologies Used
 - HTML
@@ -10,9 +10,9 @@ I'm `Adnan Sarkar`. This is the 14th assignment in my [Full Stack Javascript](ht
 
 ## 🖥 Preview
 
-[Live Preview]()
+[Live Preview](https://product-design-landingpage-project-15.netlify.app/)
 
-![]()
+![](Product%20Design%20Landing%20Page.png)
 
 ##  What I have learned in this project?
 - Flex-box for elements alignment.
